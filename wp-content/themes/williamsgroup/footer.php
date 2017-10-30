@@ -21,10 +21,10 @@
 <script src="/wp-content/themes/williamsgroup/assets/js/dist/jquery-3.0.0.min.js" type="text/javascript"></script>
 <script src="/wp-content/themes/williamsgroup/assets/js/lib/jquery.viewportchecker.min.js" type="text/javascript"></script>
 <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCHELusqRwxcdU39sX-vvzvSahqIaCL30A"></script>
-<script src="/wp-content/themes/williamsgroup/assets/js/lib/williamsgroup.js" type="text/javascript"></script>
 <script src="/wp-content/themes/williamsgroup/assets/js/dist/googleAPI.js"></script>
 <script src="/wp-content/themes/williamsgroup/assets/js/dist/googleMAP.js" type="text/javascript"></script>
 <script src="/wp-content/themes/williamsgroup/assets/outdatedbrowser/outdatedBrowser.min.js"></script>
+<script src="/wp-content/themes/williamsgroup/assets/js/lib/williamsgroup.js" type="text/javascript"></script>
 
 
 

@@ -19,6 +19,9 @@
         if ( rlUrl.indexOf('purehairsherborne.co.uk') >= 0){
             var jsonString = "/wp-content/themes/williamsgroup/assets/js/lib/ph_json.json";
         }
+        else if ( rlUrl.indexOf('purehair-theme.dev') >= 0){
+            var jsonString = "/wp-content/themes/williamsgroup/assets/js/lib/ph_json.json";
+        }
         else if ( rlUrl.indexOf('beautybaryeovil.co.uk') >= 0){
             var jsonString = "/wp-content/themes/williamsgroup/assets/js/lib/bar_json.json";
         }
@@ -30,8 +33,6 @@
         }
 
         $.ajax({url: jsonString, success: function(json){
-
-            console.log(json);
 
             // FOOTER
             var addressAll = json.result.formatted_address;
