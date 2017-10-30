@@ -1,0 +1,134 @@
+a {
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Yantramanav', sans-serif;
+}
+
+body {
+    // color: $black;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+// ========================================
+// fonts style
+// ========================================
+
+.typo-uppercase {
+    text-transform: uppercase;
+}
+
+// ========================================
+// alignment
+// ========================================
+
+.typo-left {
+    text-align: left;
+}
+
+.typo-right {
+    text-align: right;
+}
+
+.typo-center {
+    text-align: center;
+}
+
+.typo-justify {
+    text-align: justify;
+}
+
+// ========================================
+// colours
+// ========================================
+
+.typo-white {
+    color: $white;
+}
+
+.typo-black {
+    color: $black;
+}
+
+// ========================================
+// font classes
+// ========================================
+
+.f_xl {
+    font-size: 36px;
+}
+
+.f_l {
+    font-size: 28px;
+}
+
+.f_m {
+    font-size: 24px;
+}
+
+.f_r {
+    font-size: 18px;
+}
+
+.f_s {
+    font-size: 16px;
+}
+
+.f_xl,
+.f_l,
+.f_m,
+.f_r,
+.f_s {
+    line-height: 130%;
+    // letter-spacing: 1px;
+}
+
+// ========================================
+// SIZES
+// ========================================
+
+body {
+    @extend .f_r;
+}
+
+.h1, h1 {
+    @extend .f_xl;
+    @include breakpoint(mobile) {
+        font-size: 32px;
+    }
+}
+
+.h2, h2 {
+    @extend .f_l;
+    font-weight: 300;
+    @include breakpoint(mobile) {
+        font-size: 24px;
+    }
+}
+
+.h3, h3 {
+    @extend .f_m;
+    font-weight: 500;
+}
+
+.h4, h4 {
+    @extend .typo-uppercase;
+    @extend .f_r;
+    font-weight: 300;
+}
+
+p {
+    @extend .f_r;
+    font-weight: 300;
+}
+
+.h5, h5, .h6, h6 {
+    @extend .f_s;
+}
+
+.typo-underline {
+    text-decoration: underline;
+}

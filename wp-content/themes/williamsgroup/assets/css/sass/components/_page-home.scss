@@ -1,0 +1,174 @@
+
+// ========================================
+// mission-statement
+// ========================================
+
+.home-window {
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: -1;
+    background-color: $dark;
+    img {
+        width: 100%;
+    }
+}
+@media screen and (max-aspect-ratio: 11/8) {
+    .home-window {
+        img {
+            height: 100%;
+            width: auto;
+            @include breakpoint(tablet-mobile) {
+                    width: 100%;
+                    height: auto;
+            }
+        }
+    }
+}
+
+.mission-statement {
+    height: 22vh;
+    position: absolute;
+    bottom: 0;
+    z-index: 3;
+    color: $white;
+}
+
+
+// ========================================
+// overview
+// ========================================
+
+.overview-section {
+    background: $dark;
+    max-height: 660px;
+    overflow: hidden;
+    @include breakpoint(tablet-mobile) {
+        max-height: none;
+    }
+}
+
+.overview-copy {
+    height: auto;
+    color: $white;
+    overflow: hidden;
+}
+
+.overview-img-wrap {
+    overflow: hidden;
+    img {
+        width: auto;
+        height: auto;
+        @include breakpoint(tablet-mobile) {
+            width: 100%;
+        }
+    }
+}
+
+@media screen and (max-width: 1240px) and (min-width: 1023px) {
+    .overview-img-wrap {
+    img {
+        height: 100% !important;
+        width: auto;
+    }
+}
+}
+
+
+// ========================================
+// review
+// ========================================
+
+// .review-title {
+//     padding: 80px 80px 20px 80px;
+// }
+
+// .review-review,
+// .review-review-2 {
+//     padding: 20px 80px 80px 80px;
+// }
+
+.review-review-2 {
+    @include breakpoint(mobile) {
+        visibility: hidden;
+        padding: 0px;
+        height: 0px;
+    }
+}
+
+
+
+// ========================================
+// image
+// ========================================
+
+.image-section {
+    height: 0;
+    padding-bottom: 63%;
+    overflow: hidden;
+    img {
+        width: 100%;
+    }
+}
+
+// ========================================
+// news & offers
+// ========================================
+
+.news-offers-section {
+    img {
+        width: auto;
+        height: 400px;
+        @include breakpoint(mini-mobile) {
+            width: 180%;
+            height: auto;
+        }
+
+    }
+    .news-wrap, .offers-wrap {
+        height: auto;
+        overflow: hidden;
+    }
+
+    .news-copy {
+        background: $dark;
+        color: $white;
+    }
+
+    .offers-copy {
+        background: $white;
+        color: $dark;
+    }
+}
+
+
+// ========================================
+// brands
+// ========================================
+
+.brands-section {
+    background: $white;
+    svg {
+        width: 100%;
+    }
+    a {
+        width: 100px;
+        margin: 0 15px;
+        display: inline-block;
+    }
+    .tigi {
+        width: 108px;
+    }
+    .redken {
+        width: 160px;
+    }
+}
+
+// ========================================
+// cta
+// ========================================
+
+.cta-section {
+    background: $faint-grey;
+}

@@ -1,0 +1,265 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "2",
+"short_name": "2",
+"types": [
+"street_number"
+]
+},
+{
+"long_name": "Westminster Street",
+"short_name": "Westminster St",
+"types": [
+"route"
+]
+},
+{
+"long_name": "Town Centre",
+"short_name": "Town Centre",
+"types": [
+"neighborhood",
+"political"
+]
+},
+{
+"long_name": "Yeovil",
+"short_name": "Yeovil",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "Yeovil",
+"short_name": "Yeovil",
+"types": [
+"postal_town"
+]
+},
+{
+"long_name": "Somerset",
+"short_name": "Somerset",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "England",
+"short_name": "England",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "United Kingdom",
+"short_name": "GB",
+"types": [
+"country",
+"political"
+]
+},
+{
+"long_name": "BA20 1AE",
+"short_name": "BA20 1AE",
+"types": [
+"postal_code"
+]
+}
+],
+"adr_address": "<span class=\"street-address\">2 Westminster St</span>, <span class=\"locality\">Yeovil</span> <span class=\"postal-code\">BA20 1AE</span>, <span class=\"country-name\">UK</span>",
+"formatted_address": "2 Westminster St, Yeovil BA20 1AE, UK",
+"formatted_phone_number": "01935 423301",
+"geometry": {
+"location": {
+"lat": 50.94159440000001,
+"lng": -2.6341248
+},
+"viewport": {
+"northeast": {
+"lat": 50.94163779999998,
+"lng": -2.63404735
+},
+"southwest": {
+"lat": 50.94151660000001,
+"lng": -2.63435715
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id": "465000653310ae13ff306a6e480ab7aca36379c4",
+"international_phone_number": "+44 1935 423301",
+"name": "Unisex Hair Salon",
+"opening_hours": {
+"open_now": false,
+"periods": [
+{
+"close": {
+"day": 1,
+"time": "1800"
+},
+"open": {
+"day": 1,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 2,
+"time": "1800"
+},
+"open": {
+"day": 2,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 3,
+"time": "1800"
+},
+"open": {
+"day": 3,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 4,
+"time": "1800"
+},
+"open": {
+"day": 4,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 5,
+"time": "1900"
+},
+"open": {
+"day": 5,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 6,
+"time": "1800"
+},
+"open": {
+"day": 6,
+"time": "0900"
+}
+}
+],
+"weekday_text": [
+"Monday: 9:00 AM – 6:00 PM",
+"Tuesday: 9:00 AM – 6:00 PM",
+"Wednesday: 9:00 AM – 6:00 PM",
+"Thursday: 9:00 AM – 6:00 PM",
+"Friday: 9:00 AM – 7:00 PM",
+"Saturday: 9:00 AM – 6:00 PM",
+"Sunday: Closed"
+]
+},
+"photos": [
+{
+"height": 640,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109678193912670298676/photos\">Unisex Hair Salon</a>"
+],
+"photo_reference": "CoQBdwAAAHR6RARiuFs0yGJyPCkgvUQK0EDaCjP4fKpk9rfdDpQO9Yof4KX-g6h0j-OeqfaaVd8NXDjXpxKJdGpXRWXSb4TEGLJnV_Sq03QK4xQFHZR1-I_KgPTtlnHdBmJqAioQaWYOYeFPAgxiGwGLhl3KzFXXEXvFjvENYxni4_hEK7xvEhBCj39UibkkH2Lzzz9Cx3ODGhT6qpO8s_VP70KZ8weozTaQWrUElQ",
+"width": 1136
+},
+{
+"height": 2048,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109678193912670298676/photos\">Unisex Hair Salon</a>"
+],
+"photo_reference": "CoQBdwAAANG2vAOTTkLRjb0KlvP588-bmFYFE7zs8fYT9Jv2mhbsVjTlurMrxp-7aPN07p6nf7Q8zz9Qjfd2pONgfJYdbB-RTRgSj4iEJhNE1lAAgankl9oN6v9InJJ2L3bWc9BYRI2SoIPWpukhdga1yFzz4DnrA_mEfI4G-xKqTcuFohdEEhAmqkKiVe8pquvbMFr7_qijGhS3esrqd1sl5riLpQRNCMJ9YEM-Fg",
+"width": 1529
+},
+{
+"height": 2048,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109678193912670298676/photos\">Unisex Hair Salon</a>"
+],
+"photo_reference": "CoQBdwAAAITNEeesvN3qxeRSp5ifel4Td6bvSWfGzPs3UAFOAjemCo6D1Rhx5rJvvtJ3NfFaCoP46OrUARsoVQ4M0DldTROQ7dzGKLCZSpn_2H7rOr7JoACt_BfL2X8LlmD6wxrVGBKzijgFgmNfk5gH9Q7llSPuNUWyy6BNkIfca_txyDyLEhDZpsqtw7RWpDZH9veb_Qz1GhT32djVG7liAqo7MSocdf32sYJ3_A",
+"width": 1529
+},
+{
+"height": 360,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109678193912670298676/photos\">Unisex Hair Salon</a>"
+],
+"photo_reference": "CoQBdwAAACCiltAv5M1WQnbtqu2ae-ghHJvWzcTpoMHFNazvR_S0rSb3XS1YI-SBEurVt3FpMkplDbSg8xf4UQ_2Zr0ftfDxLcUo0FuYC923osdCctHP2Si-DnIf7M0Fl3PQZSjejoL18S-i8FQj8qhaEjnqbFg5vA1FMcPwOhoLGXckL5dOEhDhYzgN_MZg-JGVhr5phkP9GhRUZhV5tZP8e88FGeoK-iv9Dle55Q",
+"width": 640
+},
+{
+"height": 2048,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109678193912670298676/photos\">Unisex Hair Salon</a>"
+],
+"photo_reference": "CoQBdwAAAC6_lIr9P5dSjGwxVzMtBmCkdhfCwdMFVLtjfn5V8PHcPc0GUifGpc5U8aBuvM7ZKGxVt49WyFJ50K0-sJcFEgSrx3dXlDi-rP6BxU3CjCp0U9Hf_jtTrhTPTLBczT0fI0p_PmgYMWVWXa2SInEYpL2-q_QOVK5xr_pMqy9Zsz5lEhDH0jmIdpxooJVEwTAYDqK4GhTatomfEuO8z05uuH61rH2ZkdOQ7w",
+"width": 1529
+},
+{
+"height": 348,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109678193912670298676/photos\">Unisex Hair Salon</a>"
+],
+"photo_reference": "CoQBdwAAAEdVIPiH4eDwukbB88U6nxa0Vx3daMKxBWSyOWCwogd2lUqLTFgrPoykL0Ud0aPOBtAcK71bzcqpaWOhpfjref_cnrEqPpWhs4Q2_Zt2jKzbq28cm56FBQeND1jKAlChLnHH-h7fZgriQf6LaM7e7loQyF6P6S-pmeOruP-O3V7YEhB5LU1v4V5sxdWs1q1n9xLwGhRiQMySfiO3dy98c7_8_J8IjIOT5g",
+"width": 348
+}
+],
+"place_id": "ChIJZejjRS1AckgRUU3btSPcxSc",
+"reference": "CmRRAAAALGkutdphxRGvKmjY_tj6gjb5sNPyKXVIbx9uuEzrU-ikSB_KV4yjmHVsYEpM70Xf9rMcCtp1k0XU8PGcO4aUhGghw1QspWNKUeZT3VwjYt1Fyt8abTdyBItTpwuLjRjBEhB-naHYjGtGipUJI-JpGnjpGhQV5DyzfgqJj-QzwppvfJMqrc31bA",
+"reviews": [
+{
+"aspects": [
+{
+"rating": 3,
+"type": "overall"
+}
+],
+"author_name": "Emma Fairclough",
+"author_url": "https://plus.google.com/100599764361097919542",
+"language": "en",
+"rating": 5,
+"text": "Excellent experience & everyone's so friendly.",
+"time": 1478469983
+},
+{
+"aspects": [
+{
+"rating": 3,
+"type": "overall"
+}
+],
+"author_name": "Nick John",
+"author_url": "https://plus.google.com/110712119031590576411",
+"language": "en",
+"profile_photo_url": "//lh4.googleusercontent.com/-Q4T_7BcQlJs/AAAAAAAAAAI/AAAAAAAAEVE/D4m-CVwQ_4k/photo.jpg",
+"rating": 5,
+"text": "Unbelievably great service, yeovil's no.1 hair salon.",
+"time": 1478469919
+}
+],
+"scope": "GOOGLE",
+"types": [
+"hair_care",
+"point_of_interest",
+"establishment"
+],
+"url": "https://maps.google.com/?cid=2865938783824203089",
+"utc_offset": 0,
+"vicinity": "2 Westminster Street, Yeovil"
+},
+"status": "OK"
+}

@@ -1,0 +1,315 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "5",
+"short_name": "5",
+"types": [
+"street_number"
+]
+},
+{
+"long_name": "Queensway Place",
+"short_name": "Queensway Pl",
+"types": [
+"route"
+]
+},
+{
+"long_name": "Yeovil",
+"short_name": "Yeovil",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "Yeovil",
+"short_name": "Yeovil",
+"types": [
+"postal_town"
+]
+},
+{
+"long_name": "Somerset",
+"short_name": "Somerset",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "England",
+"short_name": "England",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "United Kingdom",
+"short_name": "GB",
+"types": [
+"country",
+"political"
+]
+},
+{
+"long_name": "BA20 1DL",
+"short_name": "BA20 1DL",
+"types": [
+"postal_code"
+]
+}
+],
+"adr_address": "Unit, <span class=\"street-address\">5 Queensway Pl</span>, <span class=\"locality\">Yeovil</span> <span class=\"postal-code\">BA20 1DL</span>, <span class=\"country-name\">UK</span>",
+"formatted_address": "Unit, 5 Queensway Pl, Yeovil BA20 1DL, UK",
+"formatted_phone_number": "01935 434534",
+"geometry": {
+"location": {
+"lat": 50.94216899999999,
+"lng": -2.63672
+},
+"viewport": {
+"northeast": {
+"lat": 50.94249189999999,
+"lng": -2.636605749999999
+},
+"southwest": {
+"lat": 50.94120030000001,
+"lng": -2.63706275
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id": "d1ddd8799bb6ae96044af4d3699d7dfae81229b4",
+"international_phone_number": "+44 1935 434534",
+"name": "Beauty Bar",
+"opening_hours": {
+"open_now": false,
+"periods": [
+{
+"close": {
+"day": 0,
+"time": "1600"
+},
+"open": {
+"day": 0,
+"time": "1000"
+}
+},
+{
+"close": {
+"day": 1,
+"time": "1800"
+},
+"open": {
+"day": 1,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 2,
+"time": "1800"
+},
+"open": {
+"day": 2,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 3,
+"time": "1800"
+},
+"open": {
+"day": 3,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 4,
+"time": "2000"
+},
+"open": {
+"day": 4,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 5,
+"time": "2000"
+},
+"open": {
+"day": 5,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 6,
+"time": "1800"
+},
+"open": {
+"day": 6,
+"time": "0900"
+}
+}
+],
+"weekday_text": [
+"Monday: 9:00 AM – 6:00 PM",
+"Tuesday: 9:00 AM – 6:00 PM",
+"Wednesday: 9:00 AM – 6:00 PM",
+"Thursday: 9:00 AM – 8:00 PM",
+"Friday: 9:00 AM – 8:00 PM",
+"Saturday: 9:00 AM – 6:00 PM",
+"Sunday: 10:00 AM – 4:00 PM"
+]
+},
+"photos": [
+{
+"height": 720,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAAMq2vY2AiLdylx3mnTh-53Q9pTJKcQpczQM1BtQFIyX19b8WZERpTbcLV6BVG54WNS5rZMD3rtMFClhW8woGQw6gr5j3bgOn3mvJiUp4WJyHWLo_upJIaA8jSKms8lf1-urh13DxCCzetJSpE6yuJCRZTQIIFvGMf_fOj1hkm0buEhCQE6-iLRU0E0V-nMxfMd_PGhS9JRZGo3Lkf9sIox0f76Cn5QXXVA",
+"width": 960
+},
+{
+"height": 960,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAAHuy9rSLZx-Yn10xyLB5400_TMIq3Ap35_bdmHLhPqBiom6PAUwvvv4qhlrwcjaj1oHs4ztYsmmtRdhAY8zG-FUYdt45V0ANJqBPUXamBejQNcvgya1DkFK78CnoLBZlIUfA5Tufp0apRnA1-mGge3GxQVjWd15RfJpv1ltCAXnuEhD1SidDi2J9VVjxAEAZx1P5GhQQPxGhY9OU_ucb8lMES0xnmCCe6Q",
+"width": 720
+},
+{
+"height": 960,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAAHD25y9tOChEpX48xrMy7-PJDICSRYwC5_dEiK1ffPi8LZh4sI2PVdCU3qRWQW-rMqWLPjzHQq8iVzfSi_sopmmk6-Dyyh46B4hapNz7OOg75DpUhWRP8t7NTJX8bfjmx91Ayvf9fvk2cXELVa0Pog4l8Lly5G-D1Cu7EEtrNthREhA5dNAFVP8vm43rDAPwwYufGhTmVHxKuVF402xJO793UKtoQG1TgQ",
+"width": 720
+},
+{
+"height": 960,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAAOuo4R2bu6LFDgvfSKUwpucj1z-uX44WJPY7JNe_34jWv7KBop7uzb69n1tifiYIxq9Lj4GgFL6u8gLwB0FVReUi2iGJQ_ySFIYrGdQ1XMKQgm52AjJT7Qqjc5jmAj9hxS7tZBRtEZsl-4tH7wX9yIEXVUkUHNE-H9R6nnIv0OANEhALYZ7qdWvig0ENRD5Pvzz6GhTcBVqWg9N3zA6gubhhaMJz7dMinA",
+"width": 720
+},
+{
+"height": 960,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAABjtAermraTjR-iEwnEQmcsbP6DJBjq32VejeEvINSpZ71wsl1dNEUQ31JzkCKMAjlZius4wZu41lrqP5D_pUoC2w-g23LJhbLbqTbIzzoKb6auvX6VzJ0-bnkkLThWSePWkrBKwCd9L6NWMt0455zT9jY6fph83U_LKCBylOLAgEhCfQFcw0n5TekbQXCbNeW4cGhReeCiw1lifnNZ5MZzwNCbs3jWZFQ",
+"width": 720
+},
+{
+"height": 1136,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAAECWyqhjvCXt4LultMGGNE2DzhplWT0Wvwk7RYG6ZKhxgeVv-ipk366zA9cRQSFPoZsp1QT3skGDuJQ_0p3nSQRcxY44WYPHCQHCSA4xmAOQiW95J_GmXO3RpRvpzmOsIduDe3tSkUaxrfgbjb6Po60ppnZCDTAGW30P-Si-u6D_EhAFklBHvWa5X5KDNfJJEJ2OGhRJAf0-q4n72c8Jyw_9d-aPzidWzA",
+"width": 640
+},
+{
+"height": 960,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAAHeLS6NMPfob2sme41JdeVfRhhWZudbar4msejLxUhInmTYL3PIGrUxwxq0yOqDrGfJxrUiyH7yAK8TcmmPPgVwMazYbxBq74zERovmQTsYzVfvMkdto3T4NitA4q-EibzMKNnRQEuCLdZ0zBPBADzvLYIuaZh5LbyeD79u20UWSEhDO3iEvDlwGhOSjCTOCDXOMGhSp3I9KA4Vs-OnlrdqJJPC_IiRheQ",
+"width": 720
+},
+{
+"height": 960,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAAIXiEySGB6uy1LVx4xNQzdz3f5FB1NAqJbiLBLNvQmNXPBmIbGuSEe-x2e9aiknPp5JtIVaxgqe3r2m-7HNsSUSqhffbYWyJ6MUn2MjHJxNC92Rt4ds1y0nniTPQpsHF7nrvIpdOawJWWYDr7a6Y_EVM9h4QtI9ZZysKvScdjUpDEhCgoS0Y0qKPAcBtEQMzEeACGhRdd4gPCRlGJIu4kKkpsoFFDzPPug",
+"width": 720
+},
+{
+"height": 960,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAALXqd8WZ5ZHg2GWoNJs9PJIJdvtOe63saIA6e3z1AisLXsD0HAHcg0CBzwLvIOzXiIzcXoW4OATUk4icyTY-iQ-naVfogidePe9uGxLAF7gQ39_8LwHLa09_3leGCQhxuSUbxo0UkQ5RXScw8M8QV9ZTdGbuOXjGWcLyhm02t5kkEhDlQvQNX40so5dPOhjLeNcpGhQGO84-3bLFqP2HXvN-xo1wmeIORw",
+"width": 673
+},
+{
+"height": 640,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112220251364540854206/photos\">Beauty Bar</a>"
+],
+"photo_reference": "CoQBcwAAAP-0WrPnn0Es59oLuYUYgq3VdLcW1to1v0FJRg80y_jqDreNRVbmEqNxiN4aTriF5xj8VPqRb2qUFXyO43xNqt6TpP5c116QtgX0ouPe5LLQmOrstkED7Pnyg027XPLcAt9MS45PWQEMNWXNgfBneRm6CPYZDIPrpHURnuXVoVuNEhDbNMyyMaueu8T5uDG2l93mGhRSVmdRIH0CqK71aF-_Tpmy_y2KxQ",
+"width": 640
+}
+],
+"place_id": "ChIJOedu3SxAckgR2zTBHZ0Nthc",
+"reference": "CmRdAAAAdPCjXmfvcocGBmTL65AkJP2Lu8OsOGRNARkhplbCROR0jQtrfPPa02OvFPLxa-pIEtvOt6Xatt9ET_-Q9_kjRhMSaNbwx2OzGxPpTYS5PtkxJ_JsDXTMvSoIjashzOcDEhBkq7TXXUtAzG_2_5n07YGYGhTvw2SuIws2bUoUqzITz2SfZLA4VA",
+"reviews": [
+{
+"aspects": [
+{
+"rating": 3,
+"type": "overall"
+}
+],
+"author_name": "Emma Fairclough",
+"author_url": "https://plus.google.com/100599764361097919542",
+"language": "en",
+"rating": 5,
+"text": "Fantastic experience! Came out feeling like a new woman! Highly recommended!!",
+"time": 1472157287
+},
+{
+"aspects": [
+{
+"rating": 3,
+"type": "overall"
+}
+],
+"author_name": "Miss R",
+"author_url": "https://plus.google.com/111628865537219298888",
+"language": "en",
+"rating": 5,
+"text": "Super treatments from the team, left feeling very refreshed and pampered :). Great team and all really good at what they do.",
+"time": 1472156654
+},
+{
+"aspects": [
+{
+"rating": 3,
+"type": "overall"
+}
+],
+"author_name": "Mike Williams",
+"author_url": "https://plus.google.com/116677540917227032354",
+"language": "en",
+"rating": 5,
+"text": "",
+"time": 1456316078
+}
+],
+"scope": "GOOGLE",
+"types": [
+"beauty_salon",
+"hair_care",
+"store",
+"point_of_interest",
+"establishment"
+],
+"url": "https://maps.google.com/?cid=1708568077093909723",
+"utc_offset": 60,
+"vicinity": "Unit, 5 Queensway Place, Yeovil",
+"website": "http://hairandcare4u.co.uk/"
+},
+"status": "OK"
+}

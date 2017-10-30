@@ -1,0 +1,283 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "Half Moon Street",
+"short_name": "Half Moon St",
+"types": [
+"route"
+]
+},
+{
+"long_name": "Sherborne",
+"short_name": "Sherborne",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "Sherborne",
+"short_name": "Sherborne",
+"types": [
+"postal_town"
+]
+},
+{
+"long_name": "Dorset",
+"short_name": "Dorset",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "England",
+"short_name": "England",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "United Kingdom",
+"short_name": "GB",
+"types": [
+"country",
+"political"
+]
+},
+{
+"long_name": "DT9 3LN",
+"short_name": "DT9 3LN",
+"types": [
+"postal_code"
+]
+}
+],
+"adr_address": "<span class=\"street-address\">Half Moon St</span>, <span class=\"locality\">Sherborne</span> <span class=\"postal-code\">DT9 3LN</span>, <span class=\"country-name\">UK</span>",
+"formatted_address": "Half Moon St, Sherborne DT9 3LN, UK",
+"formatted_phone_number": "01935 814172",
+"geometry": {
+"location": {
+"lat": 50.946713,
+"lng": -2.515472
+},
+"viewport": {
+"northeast": {
+"lat": 50.9468331,
+"lng": -2.51527805
+},
+"southwest": {
+"lat": 50.94635269999999,
+"lng": -2.51605385
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id": "8beec4460bf6bea7039aeaf4e9b5681fc31f8fc5",
+"international_phone_number": "+44 1935 814172",
+"name": "Pure Hair",
+"opening_hours": {
+"open_now": true,
+"periods": [
+{
+"close": {
+"day": 1,
+"time": "1800"
+},
+"open": {
+"day": 1,
+"time": "0930"
+}
+},
+{
+"close": {
+"day": 2,
+"time": "1800"
+},
+"open": {
+"day": 2,
+"time": "0930"
+}
+},
+{
+"close": {
+"day": 3,
+"time": "1930"
+},
+"open": {
+"day": 3,
+"time": "0830"
+}
+},
+{
+"close": {
+"day": 4,
+"time": "1730"
+},
+"open": {
+"day": 4,
+"time": "0830"
+}
+},
+{
+"close": {
+"day": 5,
+"time": "1900"
+},
+"open": {
+"day": 5,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 6,
+"time": "1630"
+},
+"open": {
+"day": 6,
+"time": "0900"
+}
+}
+],
+"weekday_text": [
+"Monday: 9:30 AM – 6:00 PM",
+"Tuesday: 9:30 AM – 6:00 PM",
+"Wednesday: 8:30 AM – 7:30 PM",
+"Thursday: 8:30 AM – 5:30 PM",
+"Friday: 9:00 AM – 7:00 PM",
+"Saturday: 9:00 AM – 4:30 PM",
+"Sunday: Closed"
+]
+},
+"photos": [
+{
+"height": 640,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAAOnjDTBqOmdjWyC59fAYMMBv-HtdLJ4NtN2wQavPL5Ub-6RIcFSB8BJ0Pp7Oh_yTVHH0eXANHJXo6EPSGobWPc9AuYcykYyFdtQA8R_KNpX5o8dULSU6wchywBKVrFVyFKWqFx21bPoDdFjgAHFIuDFzAG_OUjBB4vX3ru_G4jaqEhARceP6Qfhv2mzpB5jjMPkDGhTNwjZPDC92gASdNLM_GrI56kryPw",
+"width": 640
+},
+{
+"height": 549,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAAD-eg7i1yvu7uoF8Q4CHHTb5QVGqqHrKPKKTvoiEw8-_jvhntJofs_0RXhM-SOiZWLkUwEOn1IbwEcUkjOymEIx4lUhJql7bDV_AD617BwdLvRa6FD8-IhRyFQR2FgppRtK7XnL21S_fdYXVejZQfKdkikgAhlElQuKRQVGZJoHyEhB__tet--7L_sgA-g61d1u5GhTlWsA_t7MT2mNtgFwnkPn7y5DACQ",
+"width": 976
+},
+{
+"height": 1136,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAAOMFMOSkVXi73H6ytJnFxHjVYw21dUJ9wMpEoft68CoO6JWqu7YZdXrvJAGCbRcvfY07khpTEHwynJoz-23oYTQKL3fvPOqfCx8MxipJ1ofBkuEQUk9UluGgppM-SRoxAx9PHsWK_HqOkWvfHPm5YSeoOp-IoRrf99vpu2bmhrksEhBGe8M43ZoqYyIzzFZK2jH-GhRI3u0ii9cIEGm37YnYQb163KSbFQ",
+"width": 640
+},
+{
+"height": 2335,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAAOS5i6ZFSoLZ-rEs0qlc6vvfqgKXiYiQgJB5pfxHmr12iqKtVnIXXTn84EP6R7J74608bd3gyBiH1QoIodcx2_Lv3rSAKWELjwuF9vDHhP6t4eSQI2o_kv9u_ZTrYRsxF96iVpmXwmwtIWqkvXFvCDzDuYsoBor-KTsPBocw_R4YEhCUJf5oKHcO1yRS0G5tu8lBGhQvr8hiQBKQ2pi8CBK4UTSxoOnE5Q",
+"width": 1841
+},
+{
+"height": 1136,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAANPPDni7XxTuifP6QRdssGHF8BA9lUBAgsAD2h3h57YKovS7Oern2QPXrA60-6octDHLjZpeSfMVMsmzAMaBewQyMP4n0AVmPlIy_btkR8EEkDDX4Iuuzm_XvlozenRiMRCtF_aGDs2IxPQJ-NUpu9F_N4mcqMJ9L4lg3Ww9b9W9EhC2sCKnuVB29dqiz1qryOKtGhSjqOyE3DYpzwt9IC-huPEBTj_hoQ",
+"width": 640
+},
+{
+"height": 360,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAAA-udU2OMWYIaDiewGXNqRwtfK4t0SZQd6IOaJJLO_jRWRhDT_zMyzZUivUhhKln4wxWMrImbvgQWhDAaDVPW_O6fpDixQQdeLtNoO4IDUC711sfrPLSy4rezfvK5JseNcABQKzPhX6vsUc6VSHfGE-mnzUw6Lmawv__INQZvGY2EhATI6Dl1ht8YQFU7ukIuBA6GhR98Jtmy2tVhG31alECzzylLwCm3Q",
+"width": 640
+},
+{
+"height": 640,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAAF8mLuv-a9E1Lh-t6dX2ucmw0ZZXGeMnV4BQUy6ho_qDKSkU5D4ETbAQ_OkVGCAw9TBjN5efPEREqFbhEVF6HC9BoX7eZUGOOexUF39CH18Cy1gWb9adP-d-wAYS4Zv_kpjA5LhXPnq6CpVK-gbNsK3Yc1jN8mThMJz7M6qn6M0BEhAAf47KH26AcPEKNghNNuyPGhSisMJZguvkel1nCCtWOZbRzQgkvA",
+"width": 1136
+},
+{
+"height": 1136,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAAA46hbEXfNK4EQ004N_sp5kz3KSN_CgPEY_LDzy9wYubeXVjJEspMpSYrvaXhofBF511CU8W6x__Vz33LzjNnWSkYcGisHC4pSJWGZCqHJCoY27vm0OpUm7_FhxFJ2YbDMHXndiyUMENLgciJAZiDaaqnEkFR-qO6BnTZkQbs_SOEhBACGUqmCpvDBLS1KLTvI9TGhT70BxamD9kcG2voFVA_7S8MMWSdg",
+"width": 640
+},
+{
+"height": 1136,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAAB7URtjc0ve-081CwpL7onMLr1IQlYZ04Y4mlOn-srH7fGCtRSYwbfh6Nydh5t0KNmIZEYPi8D570HE4NTpNh_Z4nMrqGxY3ejC_k3B_qOP6HN7u__RTgIwL8IJrTc2d7zNAJEYrMCZzY4eVpyRViH7XsWvSh43eh3k08ST9nqm0EhA3Bza8-mNfc3T4_dWYVx0AGhTANtSmL0Fy-cTP9meNDoF3YqakmQ",
+"width": 640
+},
+{
+"height": 640,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111852032480088199513/photos\">Pure Hair</a>"
+],
+"photo_reference": "CoQBcwAAAL83LYJ3wO13PP2tIAzKypzW7SrtXnntuXDYUkHAQ0-fa7OdTX8YfKYlAm9n_A8WT8P1tMJEp25d7KQsL6ziw07l0enuI42hD79jZG5hxN0QaQMsb2gbPeADIDNPEDxFOjyS-iFzI-JaIN23JeIlAGm4_kAcA2KkkAJwkprkdoSXEhApzlINV5Ic1M3c659vmFpFGhTezdssqRwpWy8TrXsWvb0bSfE1Fw",
+"width": 640
+}
+],
+"place_id": "ChIJz0GnVRxHckgRSGuONsqNpVA",
+"reference": "CmRcAAAAd1O9AODK3i-a6QI6FzYHoyQe3EM345zQ5qRXpLnRX4y17ZpwJ3Js7pM6eNQbeMAz_CnLZNlzJX7KRYVPYN-atg_5m5vl8WCOGuLJoVeffallIuB9fFHYn93Djd43HmwsEhCCcr3W5NOdl6z9FZzc1Ms2GhR4s9UCEMPhUcxTbZTVHgt7K6L76Q",
+"reviews": [
+{
+"aspects": [
+{
+"rating": 3,
+"type": "overall"
+}
+],
+"author_name": "Miss R",
+"author_url": "https://plus.google.com/111628865537219298888",
+"language": "en",
+"rating": 5,
+"text": "Extremely helpful staff, great advice overall a really enjoyable experience. Left feeling great :)",
+"time": 1467567071
+},
+{
+"aspects": [
+{
+"rating": 2,
+"type": "overall"
+}
+],
+"author_name": "Nick John",
+"author_url": "https://plus.google.com/110712119031590576411",
+"language": "en",
+"profile_photo_url": "//lh4.googleusercontent.com/-Q4T_7BcQlJs/AAAAAAAAAAI/AAAAAAAAEVE/D4m-CVwQ_4k/photo.jpg",
+"rating": 4,
+"text": "If your looking for a great experience you can't go wrong with pure hair, brilliant service all round!",
+"time": 1463673189
+}
+],
+"scope": "GOOGLE",
+"types": [
+"hair_care",
+"point_of_interest",
+"establishment"
+],
+"url": "https://maps.google.com/?cid=5811206793829706568",
+"utc_offset": 60,
+"vicinity": "Half Moon Street, Sherborne",
+"website": "http://www.purehairsherborne.co.uk/"
+},
+"status": "OK"
+}

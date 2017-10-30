@@ -1,0 +1,28 @@
+
+// ========================================
+// Salons
+// ========================================
+
+// https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJz0GnVRxHckgRSGuONsqNpVA&key=AIzaSyCuW3KEE_CIqsD48s-TWIMsCbO2TdU0Els
+
+.salon-wrap {
+    height: auto;
+    background-color: $faint-grey;
+    .salon-image {
+        height: 320px;
+        overflow: hidden;
+        img {
+            width: 100%;
+            @include breakpoint(tablet-mobile) {
+                width: auto;
+                height: 100%;
+            }
+        }
+    }
+    .salon-copy {
+        height: auto;
+        img {
+            width: 160px;
+        }
+    }
+}

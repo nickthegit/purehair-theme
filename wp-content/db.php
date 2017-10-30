@@ -1,0 +1,1 @@
+/var/www/dev.njtester.info/public/wp-content/plugins/query-monitor/wp-content/db.php

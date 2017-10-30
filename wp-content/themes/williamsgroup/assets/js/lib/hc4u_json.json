@@ -1,0 +1,298 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "4",
+"short_name": "4",
+"types": [
+"subpremise"
+]
+},
+{
+"long_name": "Tesco Stores",
+"short_name": "Tesco Stores",
+"types": [
+"premise"
+]
+},
+{
+"long_name": "Queensway Place",
+"short_name": "Queensway Pl",
+"types": [
+"route"
+]
+},
+{
+"long_name": "Yeovil",
+"short_name": "Yeovil",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "Yeovil",
+"short_name": "Yeovil",
+"types": [
+"postal_town"
+]
+},
+{
+"long_name": "Somerset",
+"short_name": "Somerset",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "England",
+"short_name": "England",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "United Kingdom",
+"short_name": "GB",
+"types": [
+"country",
+"political"
+]
+},
+{
+"long_name": "BA20 1DL",
+"short_name": "BA20 1DL",
+"types": [
+"postal_code"
+]
+}
+],
+"adr_address": "4, Tesco Stores, <span class=\"street-address\">Queensway Pl</span>, <span class=\"locality\">Yeovil</span> <span class=\"postal-code\">BA20 1DL</span>, <span class=\"country-name\">UK</span>",
+"formatted_address": "4, Tesco Stores, Queensway Pl, Yeovil BA20 1DL, UK",
+"formatted_phone_number": "01935 434534",
+"geometry": {
+"location": {
+"lat": 50.94208219999999,
+"lng": -2.6366925
+},
+"viewport": {
+"northeast": {
+"lat": 50.94236235,
+"lng": -2.63656915
+},
+"southwest": {
+"lat": 50.94124175000002,
+"lng": -2.63706255
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id": "31f7314f1ab779ec2fb703c61475e18be8fe0624",
+"international_phone_number": "+44 1935 434534",
+"name": "Hair & Care 4 U",
+"opening_hours": {
+"open_now": false,
+"periods": [
+{
+"close": {
+"day": 0,
+"time": "1600"
+},
+"open": {
+"day": 0,
+"time": "1000"
+}
+},
+{
+"close": {
+"day": 1,
+"time": "1800"
+},
+"open": {
+"day": 1,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 2,
+"time": "1800"
+},
+"open": {
+"day": 2,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 3,
+"time": "1800"
+},
+"open": {
+"day": 3,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 4,
+"time": "2000"
+},
+"open": {
+"day": 4,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 5,
+"time": "2000"
+},
+"open": {
+"day": 5,
+"time": "0900"
+}
+},
+{
+"close": {
+"day": 6,
+"time": "1800"
+},
+"open": {
+"day": 6,
+"time": "0900"
+}
+}
+],
+"weekday_text": [
+"Monday: 9:00 AM – 6:00 PM",
+"Tuesday: 9:00 AM – 6:00 PM",
+"Wednesday: 9:00 AM – 6:00 PM",
+"Thursday: 9:00 AM – 8:00 PM",
+"Friday: 9:00 AM – 8:00 PM",
+"Saturday: 9:00 AM – 6:00 PM",
+"Sunday: 10:00 AM – 4:00 PM"
+]
+},
+"photos": [
+{
+"height": 683,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109350184694764053807/photos\">Hair &amp; Care 4 U</a>"
+],
+"photo_reference": "CoQBcwAAANzi52Gcj8nAAtNL9cC69pJYYdf5MReLSkUtq7dI_J4k98ibAMQQBYq1JMV2wd07as07lb2sBuHupxF4mXt-I9XAGl1jhth3P6nlQlERE_WE9HxVY51UEN0sp5T7GZe132pCFc6Bx9LiLW0W0LHwbG6cUMqRSW_zYSwS0jmapw0zEhATv7NGocvn5XdOE9s2zIe1GhRLI2zojod_HJ5flDXGBqQioMMCxg",
+"width": 1024
+},
+{
+"height": 960,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109350184694764053807/photos\">Hair &amp; Care 4 U</a>"
+],
+"photo_reference": "CoQBcwAAAAooyEcDdV89fWLemDY7ro2dDWADypA_lfW3q-5DHRMzvqhbEfEXd28dXYQLOrAFs8je0z9TvFzBl48GQu3tbC2Kk08_wtL4UXC5DNUFmxalVoIwLnb-UgxJc_YS16fNWf2ZniyP0phEPD5RZbkJAHsQUB7xGF6E6DnLbYNfY_9gEhBur6h2deVYJXd_nbc5eq2vGhRlbMcCfWndJVbdtm15qPU1fvHUQg",
+"width": 720
+},
+{
+"height": 960,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109350184694764053807/photos\">Hair &amp; Care 4 U</a>"
+],
+"photo_reference": "CoQBcwAAAOv0MgtTuY8QokjxgWSBq2-qLge-i-TiSzuY0XuOOyZYd7iRyzWpbqn7xJc6QNWeePV0fHLjcii511w92rrXo4gyHrRR4ndXDakb-tHqE_0KgxT7IRqMLg7Gzx3cXtgUEd3A4DKOKaJfEw7XPYKf6xzGa4wyLYWurfayL7_SLvsDEhDmuWVsy5QwpFPrO1bYII69GhTfQB7nXCq_Qbxs-9deTnwNqTK6AQ",
+"width": 720
+},
+{
+"height": 434,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109350184694764053807/photos\">Hair &amp; Care 4 U</a>"
+],
+"photo_reference": "CoQBcwAAANuwuBxaGthnc1A4saPHff58GQN7sIxl_f6XwX23zA1en-a7NcdkTt_FDxCmun9kjQ90X2SouLbzHNbdj5paEfq0r5YTL40vYgrytEA6aX2dwN5Mhqgsi4vPZ2l64IT4piWYHJVOKOpRhG8L4NSfytRyT3X8LfjyVuQLpgZTTZcFEhBOJjp1VMJ3JR5znOKPhwxxGhSXFPVAhUhVDTCu43HpJ3kfpnFTUg",
+"width": 770
+},
+{
+"height": 1136,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109350184694764053807/photos\">Hair &amp; Care 4 U</a>"
+],
+"photo_reference": "CoQBcwAAAEVtLj7cUB9NZlj6cylMFDTvt-_tBXpNoUwfI-gBfi5hvrA8thwYoWdXk5Ps7S7L4DdXJGhT737y8nuhSU47G47qgA9B3zxl6mHI4PD7HVUY21PgTPQkcCKxpGgnsovAntxy5JG6pc5cYJ_pgptLBLPxMKEr_dK9E-yZIA35kGqKEhDCehq9IoF-Jh5F0fdXiASNGhReVmiqDFg3hdwy-Fp_uj9dGAS-0g",
+"width": 640
+},
+{
+"height": 640,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109350184694764053807/photos\">Hair &amp; Care 4 U</a>"
+],
+"photo_reference": "CoQBcwAAAPwur7Fnr_1UzEE0iZ2s84Ss7tdhwRLTi48ahuKyr--pSjWz60xiFkgEvf3PPm4c_EW-wjpvIbRUbPNx9rYy8NZIXse8EXvMuAXgX9agildRedO-NFb92MeDZXywFMRdgYOm7PfJp264v6w3uiRRpGgtbHIZl-IbnEr9Ont7QJxsEhB-M1cCDTo7rEISAJeVnOT6GhT2s3wQI2An1ieh-WE-3atOJ_gYRA",
+"width": 1136
+},
+{
+"height": 360,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109350184694764053807/photos\">Hair &amp; Care 4 U</a>"
+],
+"photo_reference": "CoQBcwAAAFFEM6t-tvXlhv-cIkNbOusyjfydKi7wu_jcz33DBAF_RFVvSKxRYAvEXeAzCbgtYLRBgWgzL4qb6DjHr-5-3uESuIfTM8rj-GzFQa-7CDRN1KKPB2IbzVGdcr9_MTRrmLOYzjd3QXUBeAQy_pUoAGcjHuJIJkogKAtzbDmAUfClEhDMxYEjcUp_8FqG2cc_fZ8aGhQP4mqV-VIxY1PPErebqlhUEcSktA",
+"width": 360
+},
+{
+"height": 640,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109350184694764053807/photos\">Hair &amp; Care 4 U</a>"
+],
+"photo_reference": "CoQBcwAAAIQtKc9Ih1w5i-CLCD7fhSufmsKvjQG1sKRVrvNTaZjKmfnpWPX4Qz66mwJOK7pYUeLTYKcEpdap2wQKSLAWXY5m67K2ZxqyfJGGPBSPl_3w1stGO4MbEBNwi5u77IIPjyEmpBdibaFMyGQkJ2TqH3eILXvNzpURQfasObOInIxVEhDtyWWJrMMO_LrvJAtxqzyUGhQaguRwwHLdl2N6eETtEY9JZq8m1g",
+"width": 1136
+},
+{
+"height": 852,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109350184694764053807/photos\">Hair &amp; Care 4 U</a>"
+],
+"photo_reference": "CoQBcwAAAE4djtDRa73221PLu_bTYQqiVlI-uo1M94CfYyQ7t3LSb06VfDrqrHYmJhHjcnZv0Sj0QlAKmQnXd98VUUKvUIt_UUuEV4UbwrRHE9U_FzwORxx4ncYbR9p3IeoI-kaDynuy6p74BGI6QtCBYHJ7qrYGpBNv1z0wfn4dKwMRaaQNEhAdUi0CbqdfAdIsb6v1FDOKGhTQf2-puoFuV8KodIFsfOZoeyRFkA",
+"width": 640
+}
+],
+"place_id": "ChIJM84z3ixAckgRg282Mwt8vBc",
+"reference": "CnRiAAAAdJtqS4124HqC1IAHnRo_hoqN6SWEt5KwU0edkpGnRj6fzJKnfJQ-rkrGkosKPFx0JvVUVN_-1S8ZmIPml0cKqjd4iCtA2Q74u6DYIHZ6nPkdLjIPvapPfqcgfx2SDuoQDN92HLvWXf1BwnXpt4PJaRIQRehoo2HXjhQuXI7iPBAnixoUWwVg7AVTotvqGiZrRFSliHKLgSU",
+"reviews": [
+{
+"aspects": [
+{
+"rating": 3,
+"type": "overall"
+}
+],
+"author_name": "Miss R",
+"author_url": "https://plus.google.com/111628865537219298888",
+"language": "en",
+"rating": 5,
+"text": "Really convienent being above Tesco, friendly staff left feeling like I got exactly what I asked for :)",
+"time": 1474222326
+},
+{
+"aspects": [
+{
+"rating": 3,
+"type": "overall"
+}
+],
+"author_name": "Emma Fairclough",
+"author_url": "https://plus.google.com/100599764361097919542",
+"language": "en",
+"rating": 5,
+"text": "Simply amazing!! Such nice people! :)",
+"time": 1474227065
+}
+],
+"scope": "GOOGLE",
+"types": [
+"hair_care",
+"point_of_interest",
+"establishment"
+],
+"url": "https://maps.google.com/?cid=1710378346039635843",
+"utc_offset": 60,
+"vicinity": "4, Tesco Stores, Queensway Place, Yeovil",
+"website": "http://www.hairandcare4u.co.uk/"
+},
+"status": "OK"
+}

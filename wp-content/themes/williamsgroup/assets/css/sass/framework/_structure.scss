@@ -1,0 +1,31 @@
+// ========================================
+// strucutre
+// ========================================
+
+.page-window {
+    width: 100%;
+    height: auto;
+    position: relative;
+    .padding-hack {
+        padding-bottom: 32.5%;
+        height: 0;
+        padding-top: 216px;
+        overflow: hidden;
+        @include breakpoint(tablet-mini) {
+            padding-top: 98px;
+        }
+        @include breakpoint(mobile) {
+            padding-top: 77px;
+        }
+    }
+    .window-copy {
+        h2 {
+            max-width: 960px;
+            margin: 0 auto;
+        }
+    }
+    img {
+        width: 100%;
+        height: auto;
+    }
+}

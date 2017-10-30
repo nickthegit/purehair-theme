@@ -1,0 +1,79 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "2",
+"short_name": "2",
+"types": [
+"street_number"
+]
+},
+{
+"long_name": "Westminster Street",
+"short_name": "Westminster St",
+"types": [
+"route"
+]
+},
+{
+"long_name": "Yeovil",
+"short_name": "Yeovil",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "Yeovil",
+"short_name": "Yeovil",
+"types": [
+"postal_town"
+]
+},
+{
+"long_name": "Somerset",
+"short_name": "Somerset",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "United Kingdom",
+"short_name": "GB",
+"types": [
+"country",
+"political"
+]
+},
+{
+"long_name": "BA20 1AE",
+"short_name": "BA20 1AE",
+"types": [
+"postal_code"
+]
+}
+],
+"adr_address": "<span class=\"street-address\">2 Westminster St</span>, <span class=\"locality\">Yeovil</span>, <span class=\"region\">Somerset</span> <span class=\"postal-code\">BA20 1AE</span>, <span class=\"country-name\">UK</span>",
+"formatted_address": "2 Westminster St, Yeovil, Somerset BA20 1AE, UK",
+"formatted_phone_number": "01935 472470",
+"geometry": {},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id": "375713c50072e5ff309698965445b80113ea24d4",
+"international_phone_number": "+44 1935 472470",
+"name": "A Touch Of Beauty Above Unisex",
+"place_id": "ChIJZejjRS1AckgR2ITcCyIT25Y",
+"reference": "CoQBcgAAABCywqMkwoIaUIVf4eus_mHnxTL-YyOK9HwuXSUM07pgRETvfaL-29kmxfez6GLW7v7ISJoEALUW0iN7aTD4mrOrgmW0DLRi4j7I86mclNOTD003XZDM5tnFBRknrB1Lwj7eSNysjpf7_7MuauG_UyCbp5OZHWTx22TwZiT2jouaEhDa6YtuBc53uCxcXl_NomvEGhQb7ufTj0GetRszjCFGIQohDzzszg",
+"scope": "GOOGLE",
+"types": [
+"beauty_salon",
+"point_of_interest",
+"establishment"
+],
+"url": "https://maps.google.com/?cid=10870303162537641176",
+"utc_offset": 60,
+"vicinity": "2 Westminster Street, Yeovil"
+},
+"status": "OK"
+}

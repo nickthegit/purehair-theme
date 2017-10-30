@@ -1,0 +1,106 @@
+Pure Hair Images place holders
+
+homepage
+
+
+    Banner
+
+        <!-- <source srcset="http://placehold.it/1600x1000" media="(min-width: 1325px)"> -->
+        <!-- <source srcset="http://placehold.it/1000x1000" media="(min-width: 1025px)"> -->
+        <!-- <source srcset="http://placehold.it/800x1000" media="(min-width: 768px)"> -->
+        <!-- <source srcset="http://placehold.it/600x1000" media="(max-width: 767px)"> -->
+        <!-- <img src="http://placehold.it/1000x1000" alt=""> -->
+
+
+    Overview
+
+        <source srcset="http://placehold.it/800x800" media="(min-width: 1200px)">
+        <source srcset="http://placehold.it/600x720" media="(min-width: 1024px)">
+        <source srcset="http://placehold.it/1000x500" media="(min-width: 768px)">
+        <source srcset="http://placehold.it/600x400" media="(max-width: 767px)">
+        <img src="http://placehold.it/1000x500" alt="">
+
+
+    Image
+
+        <source srcset="http://placehold.it/1600x800" media="(min-width: 768px)">
+        <source srcset="http://placehold.it/700x350" media="(max-width: 767px)">
+        <img src="http://placehold.it/1600x800" alt="">
+
+    News & Offers
+
+         <source srcset="http://placehold.it/900x600" media="(min-width: 1024px)">
+         <source srcset="http://placehold.it/600x400" media="(max-width: 767px)">
+         <img src="http://placehold.it/900x600" alt="">
+
+
+Accordian
+
+<section class="accordion-wrap pbxl">
+
+    <button class="accordion">Ladies</button>
+    <div class="panel">
+        <h2>Cut & Finish</h2>
+        <p>£42 / £40 / 38</p>
+        <h2>Restyle, Cut & Finish</h2>
+        <p>£42 / £40 / 38</p>
+        <h2>Wash & Cut</h2>
+        <p>£42 / £40 / 38</p>
+        <h2>Finish</h2>
+        <p>£42 / £40 / 38</p>
+        <p class="prices-key">* Style Director / Senior Stylist / Stylist</p>
+    </div>
+
+    <button class="accordion">Mens</button>
+    <div class="panel">
+        <h2>Cut & Finish</h2>
+        <p>£42 / £40 / 38</p>
+        <h2>Restyle, Cut & Finish</h2>
+        <p>£42 / £40 / 38</p>
+        <h2>Wash & Cut</h2>
+        <p>£42 / £40 / 38</p>
+        <h2>Finish</h2>
+        <p>£42 / £40 / 38</p>
+        <p class="prices-key">* Style Director / Senior Stylist / Stylist</p>
+    </div>
+
+    <button class="accordion">Children</button>
+    <div class="panel">
+        <h2>Cut & Finish</h2>
+        <p>£42 / £40 / 38</p>
+        <h2>Restyle, Cut & Finish</h2>
+        <p>£42 / £40 / 38</p>
+        <h2>Wash & Cut</h2>
+        <p>£42 / £40 / 38</p>
+        <h2>Finish</h2>
+        <p>£42 / £40 / 38</p>
+        <p class="prices-key">* Style Director / Senior Stylist / Stylist</p>
+    </div>
+
+    <button class="accordion">Technical</button>
+    <div class="panel">
+        <h2>Cut & Finish</h2>
+        <p>£42</p>
+        <h2>Restyle, Cut & Finish</h2>
+        <p>£42</p>
+        <h2>Wash & Cut</h2>
+        <p>£42</p>
+        <h2>Finish</h2>
+        <p>£42</p>
+        <p class="prices-key"></p>
+    </div>
+
+    <button class="accordion">Colouring</button>
+    <div class="panel">
+        <h2>Cut & Finish</h2>
+        <p>£42</p>
+        <h2>Restyle, Cut & Finish</h2>
+        <p>£42</p>
+        <h2>Wash & Cut</h2>
+        <p>£42</p>
+        <h2>Finish</h2>
+        <p>£42</p>
+        <p class="prices-key"></p>
+    </div>
+
+</section>

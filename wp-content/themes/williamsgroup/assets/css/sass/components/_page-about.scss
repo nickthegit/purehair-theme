@@ -1,0 +1,96 @@
+
+// ========================================
+// about copy
+// ========================================
+
+// ========================================
+// staff bios
+// ========================================
+
+.container {
+    text-align: center;
+    @include breakpoint(mobile) {
+        text-align: left;
+    }
+}
+
+.about {
+    p {
+        line-height: 150% !important;
+    }
+    h3 {
+        div {
+            width: 60px;
+            border-bottom: 2px solid $brand;
+            margin: 0 auto;
+            margin-bottom: 15px;
+            padding-top: 10px;
+        }
+    }
+}
+
+.our-story {
+    background-color: $dark;
+    color: $white;
+    position: relative;
+    @include breakpoint(tablet-mobile)  {
+        height: auto;
+    }
+    p {
+        margin-bottom: 20px;
+    }
+}
+
+.staff-bio {
+    position: relative;
+    height: 290px;
+    @include breakpoint(tablet-mobile) {
+        height: auto;
+    }
+    &:hover {
+        .staff-copy {
+            display: table;
+            .staff-copy-wrap {
+                transform:translateY(0px);
+            }
+        }
+    }
+    img {
+        position: absolute;
+        width: 100%;
+        margin: 0px;
+        left: 0;
+        z-index: 8;
+        @include breakpoint(tablet-mobile) {
+            position: relative;
+        }
+    }
+    .staff-copy {
+        position: absolute;
+        z-index: 9;
+        width: 100%;
+        left: 0;
+        height: 290px;
+        display: none;
+        background: rgba($brand, 0.8);
+        .staff-copy-wrap {
+            position: relative;
+            display: table-cell;
+            vertical-align: middle;
+            padding: 10px;
+            transform:translateY(100px);
+        }
+        @include breakpoint(tablet-mobile) {
+            position: relative;
+            display: inline;
+            height: auto;
+            background: none;
+            .staff-copy-wrap {
+                transform:translateY(0px);
+            }
+        }
+    }
+    h4 {
+        margin-bottom: 10px;
+    }
+}
