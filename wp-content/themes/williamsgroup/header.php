@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-    <link rel="stylesheet" href="/wp-content/themes/williamsgroup/assets/css/compiled/style.css">
+    <link rel="stylesheet" href="/wp-content/themes/williamsgroup/assets/css/style.css">
 
     <link href='https://fonts.googleapis.com/css?family=Yantramanav:400,300,700,500' rel='stylesheet' type='text/css'>
 

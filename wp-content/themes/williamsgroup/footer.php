@@ -17,26 +17,9 @@
     </footer> <!-- footer END -->
 
 <!-- JAVASCRIPT -->
-<script src="/wp-content/themes/williamsgroup/assets/js/dist/global.js"></script>
-<script src="/wp-content/themes/williamsgroup/assets/js/dist/jquery-3.0.0.min.js" type="text/javascript"></script>
-<script src="/wp-content/themes/williamsgroup/assets/js/lib/jquery.viewportchecker.min.js" type="text/javascript"></script>
 <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCHELusqRwxcdU39sX-vvzvSahqIaCL30A"></script>
-<script src="/wp-content/themes/williamsgroup/assets/js/dist/googleAPI.js"></script>
-<script src="/wp-content/themes/williamsgroup/assets/js/dist/googleMAP.js" type="text/javascript"></script>
-<script src="/wp-content/themes/williamsgroup/assets/outdatedbrowser/outdatedBrowser.min.js"></script>
-<script src="/wp-content/themes/williamsgroup/assets/js/lib/williamsgroup.js" type="text/javascript"></script>
+<script src="/wp-content/themes/williamsgroup/assets/js/project.js" type="text/javascript"></script>
 
-
-
-<script>
-    //plugin function, place inside DOM ready function
-    outdatedBrowser({
-        bgColor: '#f25648',
-        color: '#ffffff',
-        lowerThan: 'transform',
-        languagePath: 'your_path/outdatedbrowser/lang/en.html'
-    })
-</script>
 
 <!-- GOOGLE ANALYTICS -->
 <script>

@@ -16,7 +16,7 @@ else if ( rlUrl.indexOf('unisexyeovil.co.uk') >= 0){
     var brandColor = "black";
 }
 else if ( rlUrl.indexOf('hairandcare4u.co.uk') >= 0){
-    var brandColor = "#d8493a";
+    var brandColor = "#d8493a"; 
 }
 
 sheet.insertRule(".button { background: " + brandColor + "; border-color: " + brandColor + "; } ", sheet.cssRules.length);
