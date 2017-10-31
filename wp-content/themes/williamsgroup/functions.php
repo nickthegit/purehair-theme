@@ -128,3 +128,15 @@ function register_shortcodes(){
 }
 
 add_action( 'init', 'register_shortcodes');
+
+if( function_exists('acf_add_options_page') ) {
+  
+  acf_add_options_page(array(
+    'page_title'  => 'Globals',
+    'menu_title'  => 'Globals',
+    'menu_slug'   => 'globals-settings',
+    'capability'  => 'edit_posts',
+    'redirect'    => false
+  ));
+  
+}

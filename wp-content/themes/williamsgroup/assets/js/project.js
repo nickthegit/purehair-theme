@@ -369,10 +369,13 @@ for (i = 0; i < acc.length; i++) {
 }
 
 // Fade in up effect on viewpoint
+var img_item = $('.fade-in-up-effect');
 
-jQuery(document).ready(function() {
-	jQuery('.fade-in-up-effect').addClass("hidden-effect").viewportChecker({
-	    classToAdd: 'visible-effect animated fadeInUp', // Class to add to the elements when they are visible
-	    offset: 100
-	   });
-});
+
+
+for (var i = img_item.length - 1; i >= 0; i--) {
+  $(img_item[i]).addClass("hidden-effect fadeInUp animated");
+  console.log(img_item[i]);
+}
+
+

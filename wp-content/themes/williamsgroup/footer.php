@@ -20,7 +20,7 @@
 <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCHELusqRwxcdU39sX-vvzvSahqIaCL30A"></script>
 <script src="/wp-content/themes/williamsgroup/assets/js/project.js" type="text/javascript"></script>
 
-
+ 
 <!-- GOOGLE ANALYTICS -->
 <script>
 
